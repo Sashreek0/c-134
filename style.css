@@ -1,0 +1,23 @@
+
+.heading{
+    font-size: 23px;
+    color: aquamarine;
+    width: 100%;
+
+}
+.heading h3{
+    display:inline;
+    font-size: 23px;
+    color: aquamarine;
+}
+.heading button{
+    float: right;
+    border:1px,double,gold;
+    
+
+}
+
+
+#start,#status{
+    font-size: 23px;
+}
